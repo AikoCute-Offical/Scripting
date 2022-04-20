@@ -1,7 +1,7 @@
 /*
 QX: ^https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ url script-response-body langkhach/sololearn.js
 
-Surge: http-response ^https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/sololearn.js
+Surge: http-response ^https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/AikoCute/Scripting/master/sololearn.js
 
 hostname=api.sololearn.com
 */

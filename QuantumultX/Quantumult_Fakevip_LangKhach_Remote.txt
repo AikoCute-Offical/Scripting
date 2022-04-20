@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-FB.conf, tag=🇻🇳hostsVN-FB, force-policy=Chặn FB, enabled=true
 
 [rewrite_remote]
-https://raw.githubusercontent.com/langkhach270389/Scripting/master/QuantumultX/Fake_Vip.txt, tag=Fake_Remote_LangKhach, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/AikoCute/Scripting/master/QuantumultX/Fake_Vip.txt, tag=Fake_Remote_LangKhach, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
 
 [server_local]

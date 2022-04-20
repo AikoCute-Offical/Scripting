@@ -82,7 +82,7 @@ https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body l
 ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get url script-response-body langkhach/musixmatch.miao.js
 
 #boom
-^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$ url 302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/boom.vip.rsp
+^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$ url 302 https://raw.githubusercontent.com/AikoCute/Scripting/master/boom.vip.rsp
 
 #mimo
 ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body langkhach/mimo.vip.js
@@ -91,7 +91,7 @@ https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body l
 ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body langkhach/revenuecat.js
 
 #Bright
-^https:\/\/engbright\.com\/app-portal\/apple\/receipt$ url 302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/Bright.rsp
+^https:\/\/engbright\.com\/app-portal\/apple\/receipt$ url 302 https://raw.githubusercontent.com/AikoCute/Scripting/master/Bright.rsp
 
 #lingokids
 ^https:\/\/api\.lingokids\.com\/v1\/renovate_session$ url script-response-body langkhach/lingokids.vip.js
@@ -106,7 +106,7 @@ https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body l
 ^https:\/\/commerce-i18n-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info$ url script-response-body langkhach/ulike.js
 
 #adguardpremium
-^https:\/\/mobile-api\.adguard\.com\/api\/1\.0\/ios_validate_receipt$ url 302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/Adguard.rsp
+^https:\/\/mobile-api\.adguard\.com\/api\/1\.0\/ios_validate_receipt$ url 302 https://raw.githubusercontent.com/AikoCute/Scripting/master/Adguard.rsp
 
 #zingmp3
 ^https:\/\/api\.global\.mp3\.zing\.vn\/1\.0\/getUserInfo\?data=* url script-response-body langkhach/zingmp3.js
